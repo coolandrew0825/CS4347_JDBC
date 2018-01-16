@@ -1,10 +1,5 @@
 package cs4347.jdbcProject.ecomm.dao.impl;
 
-// Class: CS 4347
-// Project: JDBC
-// Created by: Sean Wali
-// Date: 4/3/2017
-
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
