@@ -14,11 +14,6 @@ import cs4347.jdbcProject.ecomm.entity.Purchase;
 import cs4347.jdbcProject.ecomm.services.PurchaseSummary;
 import cs4347.jdbcProject.ecomm.util.DAOException;
 
-//Class: CS 4347
-//Project: JDBC
-//Created by: Chien-Chi Liu (Andy)
-//Date: 4/3/2017
-
 public class PurchaseDaoImpl implements PurchaseDAO {
 
 	final static String insertSQL = "INSERT INTO PURCHASE (purchaseDate, purchaseAmount, Customer_id, Product_id) VALUES (?, ?, ?, ?)";
