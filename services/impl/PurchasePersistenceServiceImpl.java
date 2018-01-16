@@ -24,11 +24,6 @@ import cs4347.jdbcProject.ecomm.services.PurchasePersistenceService;
 import cs4347.jdbcProject.ecomm.services.PurchaseSummary;
 import cs4347.jdbcProject.ecomm.util.DAOException;
 
-//Class: CS 4347
-//Project: JDBC
-//Created by: Chien-Chi Liu (Andy)
-//Date: 4/3/2017
-
 public class PurchasePersistenceServiceImpl implements PurchasePersistenceService {
 	private DataSource dataSource;
 	
