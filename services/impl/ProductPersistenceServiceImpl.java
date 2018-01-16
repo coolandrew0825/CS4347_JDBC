@@ -1,10 +1,5 @@
 package cs4347.jdbcProject.ecomm.services.impl;
 
-// Class: CS 4347
-// Project: JDBC
-// Created by: Paul Parrot
-// Date: 4/3/2017
-
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.List;
