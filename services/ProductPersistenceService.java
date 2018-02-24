@@ -1,5 +1,3 @@
-package cs4347.jdbcProject.ecomm.services;
-
 import java.sql.SQLException;
 import java.util.List;
 
