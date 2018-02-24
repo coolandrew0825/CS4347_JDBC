@@ -32,3 +32,5 @@ ProductPersistenceServiceImpl has create, retrieve, update, delete, retrieveByUP
 PurchasePersistenceServiceImpl has create, retrieve, update, delete functions.
 
 DAOException class handles exception.
+
+CustomerPersistenceServiceTest used dummy data to test each functions in CustomerPersistenceServiceImpl class.
