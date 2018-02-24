@@ -1,5 +1,3 @@
-package cs4347.hibernateProject.ecomm.unitTesting.service;
-
 import static org.junit.Assert.*;
 
 import java.sql.Date;
