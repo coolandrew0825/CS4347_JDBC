@@ -1,5 +1,3 @@
-package cs4347.jdbcProject.ecomm.entity;
-
 public class Address
 {
 	private String address1;
