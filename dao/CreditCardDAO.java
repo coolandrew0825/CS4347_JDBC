@@ -1,5 +1,3 @@
-package cs4347.jdbcProject.ecomm.dao;
-
 import java.sql.Connection;
 import java.sql.SQLException;
 
