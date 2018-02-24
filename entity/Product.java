@@ -1,5 +1,3 @@
-package cs4347.jdbcProject.ecomm.entity;
-
 public class Product
 {
 	private Long id;
