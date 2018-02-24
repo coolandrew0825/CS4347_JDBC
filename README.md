@@ -2,7 +2,7 @@
 class name: database system
 programming languages: Java and SQL
 
-This project is about creating a schema for address, crediservices and DAOs(Data Access Objects)
+The team used JDBC as the method to build connection between the java programs and MySQL database. The team created a schema with five tables, and the tables are address, creditcard, customer, product, and purchase. Each table in the database comes with 2 classes and 1 interface. For example, Address table has Address, AddressDaoImpl, and AddressDAO.
 
 AddressDAO is an interface for AddressDaoImpl class.
 CreditCardDAO is an interface for CreditCardDaoImpl class.
