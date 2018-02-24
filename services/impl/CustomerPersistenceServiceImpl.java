@@ -1,5 +1,3 @@
-package cs4347.jdbcProject.ecomm.services.impl;
-
 import java.sql.Connection;
 import java.sql.Date;
 import java.sql.SQLException;
