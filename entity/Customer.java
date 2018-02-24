@@ -1,5 +1,3 @@
-package cs4347.jdbcProject.ecomm.entity;
-
 import java.sql.Date;
 
 public class Customer
