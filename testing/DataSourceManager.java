@@ -1,5 +1,3 @@
-package cs4347.jdbcProject.ecomm.testing;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.sql.Connection;
