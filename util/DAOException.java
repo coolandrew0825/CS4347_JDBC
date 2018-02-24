@@ -1,5 +1,3 @@
-package cs4347.jdbcProject.ecomm.util;
-
 @SuppressWarnings("serial")
 public class DAOException extends Exception
 {
